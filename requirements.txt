@@ -1,0 +1,11 @@
+tensorflow>=2.12
+tensorflow-addons
+h5py
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+tqdm
+opencv-python
