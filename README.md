@@ -1,6 +1,6 @@
 # Japanese Conifer Wood Classification by CNN and ViT models
 
-Deep learning classification of conifer wood species from cross-sectional micrographs, using CNNs (Conv_4, Conv_6, ResNet) and Vision Transformers (ViT, patch sizes 30 / 15 / 10). It was the repository for the paper now under review at Journal of Wood Science entitled ' <u>Comparison of convolutional neural network and vision transformer for coniferous Japanese wood classification: predictive performance and interpretation of classification strategy</u>'.
+This repository details the deep learning classification of conifer wood species using cross-sectional micrographs. We compare the performance of Convolutional Neural Networks (CNNs)—specifically Conv_4, Conv_6, and ResNet—with Vision Transformers (ViTs) at various patch sizes (30, 15, and 10). This work forms the basis for a manuscript currently under review at the Journal of Wood Science, titled: 'Comparison of convolutional neural network and vision transformer for coniferous Japanese wood classification: predictive performance and interpretation of classification strategy.'
 
 ## Repository structure
 
